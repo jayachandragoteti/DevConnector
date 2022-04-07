@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://mern:suhas2018@cluster0.bymy3.mongodb.net/DevConnect?retryWrites=true&w=majority",
+    "jwtSecret": "Jay2018",
+    "githubClientId": "efd1301006fecbc15d0c",
+    "githubSecret": "e5dd09c28dc74044c6421a73b4341262dba0c618"
+}
